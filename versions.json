@@ -1,14 +1,14 @@
 [
   {
     "version": "1.00",
-    "url": "https://github.com/.../v1.00.zip",
+    "url": "https://github.com/emilioperna/softwaretrascrizione/archive/refs/tags/v1.00.zip",
     "modules": {
       "trascrizione": { "available": true }
     }
   },
   {
     "version": "2.00",
-    "url": "https://github.com/.../v2.00.zip",
+    "url": "https://github.com/emilioperna/softwaretrascrizione/archive/refs/tags/v2.00.zip",
     "modules": {
       "trascrizione": { "available": true },
       "audio": { "available": true },
