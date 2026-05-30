@@ -1,0 +1,17 @@
+[
+  {
+    "id": "miglioramento_foto",
+    "name": "Miglioramento Foto",
+    "icon": "✨"
+  },
+  {
+    "id": "convertitore_file",
+    "name": "Convertitore File",
+    "icon": "🔄"
+  },
+  {
+    "id": "rimozione_metadati",
+    "name": "Rimozione Metadati",
+    "icon": "🛡️"
+  }
+]
